@@ -1,0 +1,35 @@
+.font-arial {
+	font-family: Arial;
+}
+
+.font-times {
+	font-family: "Times New Roman";
+}
+
+img {
+	height: 50px;
+	width: 50px;
+	margin: 20px;
+	float: right;
+}
+
+img:hover {
+	border: 2px red solid;
+	color: red;
+	cursor: pointer;
+}
+
+.text-in-image {
+	height: 300px;
+	width: 300px;
+	background-image: url("http://s3.citypass.net/img-95eb706/products/seattle/thumbs/t-spaceneedle.jpg");
+	background-size: 300px 300px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 10px;
+}
+
+.text-in-image p {
+	border: 3px red dotted;
+}
