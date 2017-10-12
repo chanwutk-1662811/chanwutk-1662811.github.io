@@ -1,0 +1,108 @@
+body {
+	background-image: url("dark_wood.png");
+}
+
+p {
+
+}
+
+h3 {
+
+}
+
+li {
+
+}
+
+a {
+	color: white;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#Header {
+	border: solid 8px black;
+	width: 500px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	background-color: #8E41D5;
+}
+
+#Header h1 {
+	font-size: 60px;
+	font-family: "Passion One";
+	color: #FFBC00;
+	font-weight: bold;
+}
+
+#LeftNav {
+	border: solid 8px black;
+	width: 400px;
+	float: left;
+	text-align: center;
+	background-color: #8E41D5;
+}
+
+#LeftNav img {
+	padding-bottom: 8px;
+}
+
+#LeftNav ul {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+#LeftNav h3 {
+	font-size: 40px;
+	font-family: "Passion One";
+	color: #FFBC00;
+	font-weight: bold;
+	margin-top: 40px;
+	margin-bottom: 10px;
+}
+
+#Content {
+	border: solid 8px black;
+	width: 700px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 15px;
+	color: white;
+	font-weight: bold;
+	font-family: arial;
+	background-color: #8E41D5;
+}
+
+#bow {
+	font-size: 20px;
+	color: #FFBC00;
+}
+
+#Footer {
+	border: solid 8px black;
+	text-align: center;
+	background-color: #8E41D5;
+}
+
+#Footer p {
+	color: white;
+	font-weight: bold;
+	font-family: arial;
+}
+
+#Footer h3 {
+	font-size: 40px;
+	font-family: "Passion One";
+	color: #FFBC00;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+#Footer ul {
+	list-style-type: none;
+	padding-left: 0px;
+}
